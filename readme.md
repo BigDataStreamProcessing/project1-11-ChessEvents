@@ -22,7 +22,7 @@ Atrybuty w każdym zdarzeniu zgodnym ze schematem `ChessEvent` mają następują
 * `winner` - imię i nazwisko zwycięzcy
 * `loser` - imię i nazwisko przegranego
 * `winnersTitle` - tytuł szachowy zwycięzcy
-* `losersTitle`- tytuł szachowy przegranego
+* `losersTitle` - tytuł szachowy przegranego
 * `winnersColor` - kolor pionków, którym grał zwycięzca (czarne lub białe pionki)
 * `opening` - otwarcie, którym rozpoczęła się partia
 * `matchTimeInSeconds` - czas trwania partii w sekundach
