@@ -66,9 +66,9 @@ Wyniki powinny zawierać następujące kolumny:
 - `avgMoves` - średnia liczba ruchów.
 
 ## Zadanie 4
-Utrzymywane są dwa rankingi najbardziej popularnych otwarć (najczęściej wykorzystywanych) dla: (1) tytułu GM, (2) tytułu WGM, z partii zarejestrowanych w ciągu ostatniej minuty.
+Utrzymywane są dwa rankingi 10 najbardziej popularnych zwycięskich otwarć (najczęściej wykorzystywanych) dla: (1) tytułu GM, (2) tytułu WGM, z partii zarejestrowanych w ciągu ostatniej minuty.
 
-Utrzymuj zestawienie porównujące liczby partii dla obu tytułów 
+Utrzymuj zestawienie porównujące liczby otwarć partii dla obu tytułów 
 
 Wyniki powinny zawierać następujące kolumny:
 - `opening` - nazwa otwarcia,
